@@ -1,5 +1,11 @@
 # MVVM To-Do List App with Flow and Architecture Components
 
-Watch the course here: https://www.youtube.com/playlist?list=PLrnPJCHvNZuCfAe7QK2BoMPkv2TGM_b0E
+Originally based on course: https://www.youtube.com/playlist?list=PLrnPJCHvNZuCfAe7QK2BoMPkv2TGM_b0E
 
-![thumbnail part 1](https://user-images.githubusercontent.com/52977034/116892669-5afefc80-ac30-11eb-9710-7a927427f02f.png)
+Additional features added:
+
+1. [ ]Top level lists view to hold many lists
+2. [ ]Theming!
+3. [ ]Sub tasks under individual tasks
+4. [ ]Markdown conversion/ updating - add in grabbing todo from READMEs too
+
